@@ -1,37 +1,4 @@
-# Installation et prise en main de Frida pour l’analyse dynamique Android
 
-## Objectif
-
-L’objectif de ce laboratoire est de mettre en place **Frida**, un framework d’instrumentation dynamique, afin de réaliser une analyse de sécurité sur une application Android.  
-Ce TP couvre :
-
-- l’installation du client Frida sur la machine hôte ;
-- le déploiement de `frida-server` sur un appareil Android ;
-- la validation de la communication entre le PC et l’appareil ;
-- l’injection de scripts JavaScript dans un processus Android ;
-- l’observation de comportements applicatifs liés au réseau, au stockage local et à certaines vérifications de sécurité.
-
----
-
-# Environnement de travail
-
-## Matériel utilisé
-
-- PC hôte : Windows 10/11
-- Smartphone Android / Émulateur Android
-- Câble USB
-- Connexion Internet
-
-## Logiciels utilisés
-
-- Python 3.10+
-- pip
-- ADB (Android Platform Tools)
-- Frida
-- frida-tools
-- PowerShell / CMD
-- Android Emulator (AVD)
-- 7-Zip (pour extraction `.xz`)
 
 ---
 
