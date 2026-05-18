@@ -73,6 +73,7 @@ powershell
 17.9.10
 ✅ Statut: Succès - Client Frida correctement installé
 
+
 <img width="870" height="361" alt="1lab10" src="https://github.com/user-attachments/assets/cccd55dc-8fe2-4e80-9162-83fa4703b8c9" />
 
 4. Déploiement de frida-server sur Android
