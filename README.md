@@ -37,7 +37,7 @@ Ce TP couvre :
 
 # Étape 1 : Installation de Frida sur la machine hôte
 
-## Installation de Python
+Installation de Python
 
 Vérification de l’installation :
 
